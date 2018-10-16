@@ -1,3 +1,7 @@
+
+ <h3>Contact with me: md.shamimtpi@gmail.com</h3>
+  <h3>skype: md.shamim4431</h3>
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
